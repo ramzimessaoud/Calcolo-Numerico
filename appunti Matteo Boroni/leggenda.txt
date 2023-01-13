@@ -1,0 +1,41 @@
+lezione 3
+ricerca di ecq non lineari pag1
+metodo di bisezione 4-6
+
+lezone 4
+lab
+
+lezione 5
+cont. metodo di bisezione pag 6
+algoritmo localmente convergenti 62
+metodo delle corde 61
+metodo di newton  63
+criteri di arresto e di residuo 64
+criteri dell'incremento 64
+
+lezione 6
+lab
+
+lezione 7
+grafica in matlab
+risoluzione dei sistemi lineari  22
+
+lezione 8
+metodi iterativi 22
+matrice diagonale 22
+matrici 23-26
+metodo elim. di gauss, sostituzione in avanti 25-31
+
+lezione 9
+fattorizzazione pag 32-36
+calcolo matrice inversa 33
+algoritmo di do-little 37-38
+
+lezione 10
+lab
+
+lezione 11
+matrice tridiagonale 39
+sostituzione in avanti 41
+sostituzione all'indietro 42
+metodi iteravi 46-49
